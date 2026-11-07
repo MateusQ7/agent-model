@@ -1,0 +1,9 @@
+{
+  "name": "agent-model",
+  "version": "0.1.0",
+  "description": "Agentes reutilizáveis para o fluxo planner → coder → reviewer → committer, mais test-writer e debugger.",
+  "author": {
+    "name": "MateusQ7"
+  },
+  "repository": "https://github.com/MateusQ7/agent-model"
+}
