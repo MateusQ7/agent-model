@@ -1,0 +1,14 @@
+{
+  "name": "mateusq7",
+  "description": "Marketplace pessoal do MateusQ7",
+  "owner": {
+    "name": "MateusQ7"
+  },
+  "plugins": [
+    {
+      "name": "agent-model",
+      "source": "./",
+      "description": "Agentes reutilizáveis: planner, coder, reviewer, committer, test-writer e debugger."
+    }
+  ]
+}
